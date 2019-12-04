@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSH:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de79946e-2921-43ef-9145-745803c270fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SSH_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8d0044df-b8b1-4db6-adf2-124ea68054a1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8d0044df-b8b1-4db6-adf2-124ea68054a1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_9_5_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_5_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_guicedee_services_commons_logging_1_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_log4j_1_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_commons_dbcp2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_commons_pool2_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_logging_log4j_log4j_core_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_struts_struts2_spring_plugin_2_3_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_springframework_spring_web_3_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-pool2-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.4.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-core-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ognl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/struts2-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/action/UserAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/test/HibernateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/test/SpringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/com/example/demo/test/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/byte-buddy-1.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-dbcp2-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-fileupload.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-lang3-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-logging-1.0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/commons-pool2-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/freemarker-2.3.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/hibernate-core-5.4.9.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/log4j-1.2.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/log4j-api-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/log4j-core-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/ognl-3.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/ognl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-aop-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-asm-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-beans-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-context-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-core-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-expression-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/spring-web-3.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/struts2-core-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/lib/xwork-core-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/SSH_war_exploded/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/action/UserAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/test/HibernateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/test/SpringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/com/example/demo/test/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SSH/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/action/UserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/test/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/test/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/test/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SSH" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_5" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Users\HZL\IdeaProjects\SSH\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\CLASS\Spring Cloud\apache-maven-3.6.0-bin\apache-maven-3.6.0\repository" />
+        <option name="mavenHome" value="D:/CLASS/Spring Cloud/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\CLASS\Spring Cloud\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1UTPg6bSL64NYH2X3UGVQmx5SoQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="8d0044df-b8b1-4db6-adf2-124ea68054a1" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38178474" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.example.demo.bean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.20">
+    <configuration name="HibernateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.HibernateTest" />
+      <module name="SSH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.SpringTest" />
+      <module name="SSH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="SSH:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SSH" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_20_SSH" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1100" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6613" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSH:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HibernateTest" />
+      <item itemvalue="Application.SpringTest" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HibernateTest" />
+        <item itemvalue="Application.SpringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16222571" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de79946e-2921-43ef-9145-745803c270fa" name="Default Changelist" comment="" />
+      <created>1575377719694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575377719694</updated>
+      <workItem from="1575377817260" duration="39000" />
+      <workItem from="1575425218799" duration="10429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Project_Structure" timestamp="1575377850881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1575377850881" />
+    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575443273581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575443273581" />
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1575440385874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575440385874" />
+    <state x="350" y="91" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575428413492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="91" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1575428413492" />
+    <state x="353" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1575428445399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1366.728@0.0.1366.728" timestamp="1575428445399" />
+    <state x="363" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575425295836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575425295836" />
+    <state x="413" y="45" key="FileChooserDialogImpl" timestamp="1575443334543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="45" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575443334543" />
+    <state width="1068" height="415" key="GridCell.Tab.0.bottom" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.0.center" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.0.left" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.0.right" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.1.bottom" timestamp="1575443238410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575443238410" />
+    <state width="1068" height="415" key="GridCell.Tab.1.center" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.1.left" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.1.right" timestamp="1575443238409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575443238409" />
+    <state width="1068" height="415" key="GridCell.Tab.2.bottom" timestamp="1575443238410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575443238410" />
+    <state width="1068" height="415" key="GridCell.Tab.2.center" timestamp="1575443238410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1575443238410" />
+    <state width="1068" height="415" key="GridCell.Tab.2.left" timestamp="1575443238410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1575443238410" />
+    <state width="1068" height="415" key="GridCell.Tab.2.right" timestamp="1575443238410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1068" height="415" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1575443238410" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1575443261275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575443261275" />
+    <state x="305" y="247" width="755" height="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575431188676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="247" width="755" height="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1575431188676" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1575428827677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1575428827677" />
+    <state x="362" y="0" key="spring file set editor" timestamp="1575425622664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="362" y="0" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1575425622664" />
+  </component>
+</project>

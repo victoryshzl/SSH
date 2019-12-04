@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.guicedee.services:commons-logging:1.0.1.0" type="repository">
+    <properties maven-id="com.guicedee.services:commons-logging:1.0.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
