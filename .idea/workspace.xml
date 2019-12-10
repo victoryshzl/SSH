@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de79946e-2921-43ef-9145-745803c270fa" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SSM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
@@ -238,15 +237,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -266,6 +256,7 @@
       <updated>1575377719694</updated>
       <workItem from="1575377817260" duration="39000" />
       <workItem from="1575425218799" duration="11545000" />
+      <workItem from="1575447625800" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="ssh项目案例">
       <created>1575443587229</created>
@@ -289,10 +280,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1575377850881" />
-    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575443273581">
+    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575447696724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575443273581" />
+    <state x="143" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575447696724" />
     <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1575440385874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -377,10 +368,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="305" y="247" width="755" height="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1575431188676" />
-    <state x="0" y="0" key="new project wizard" timestamp="1575447329668">
+    <state x="0" y="0" key="new project wizard" timestamp="1575447754273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575447329667" />
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575447754273" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1575428827677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
